@@ -5,15 +5,14 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidhossainbadhon&label=Profile%20views&color=0e75b6&style=flat" alt="khalidhossainbadhon" /> </p> -->
 
 
+<p>🌱 I’m currently learning <b>ReactJs</b></p>
 
+  <p>💬 Ask me about <b>Web</b></p>
 
-<p>🌱 I’m currently learning **ReactJs**</p>
+ <p>📫 How to reach me <b>dev.khalidhossain@gmail.com</b></p>
 
-<p>💬 Ask me about **Web**</p>
+ <p>⚡ Fun fact <b>I'm crazy about exploring</b></p>
 
- <p>📫 How to reach me **dev.khalidhossain@gmail.com**</p>
-
- <p>⚡ Fun fact **I'm crazy about exploring**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
